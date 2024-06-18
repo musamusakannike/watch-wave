@@ -144,11 +144,11 @@ a {
     z-index: 999;
   }
   nav#side-nav {
-    -webkit-transform: translateX(-100vw);
-       -moz-transform: translateX(-100vw);
-        -ms-transform: translateX(-100vw);
-         -o-transform: translateX(-100vw);
-            transform: translateX(-100vw);
+    -webkit-transform: translateX(-120vw);
+       -moz-transform: translateX(-120vw);
+        -ms-transform: translateX(-120vw);
+         -o-transform: translateX(-120vw);
+            transform: translateX(-120vw);
     width: 100vw;
     height: 100vh;
     position: fixed;
