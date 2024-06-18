@@ -139,9 +139,11 @@ a {
     grid-gap: 20px;
   }
   #nav-button {
+    margin: 0;
+    padding: 0;
     position: fixed;
-    right: 5px;
-    top: 5px;
+    right: 15px;
+    top: 15px;
     z-index: 999;
   }
   nav#side-nav {
